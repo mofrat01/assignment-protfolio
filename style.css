@@ -1,0 +1,51 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.orange-color {
+  color: #ffad5a;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.misson-heading {
+  padding-left: 3%;
+  line-height: 50px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 10%;
+}
+
+.half-width img {
+  width: 80%;
+}
+
+.link-button {
+  text-decoration: none;
+  background-color: #ff5959;
+  padding: 10px 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
+
+.border-line {
+  border-left: 5px solid;
+  color: #ff5959;
+  border-image-slice: 1;
+  border-radius: 2px;
+}
